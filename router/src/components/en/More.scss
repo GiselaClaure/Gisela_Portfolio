@@ -1,0 +1,20 @@
+.habilities-card {
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+    border-radius: 25px; 
+    border: solid 4px #4c445aaf ; 
+    
+  }
+  .tech{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+    img{
+        width: 60px;
+    }
+
+}

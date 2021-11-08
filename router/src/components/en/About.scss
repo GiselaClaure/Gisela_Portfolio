@@ -1,0 +1,18 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  }
+  .about-card {
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+    border-radius: 25px; 
+    border: solid 4px #4c445aaf ; 
+  }
+  p{
+    color: #4c445aaf;
+    text-decoration: none;
+    letter-spacing: 1px;
+  }
