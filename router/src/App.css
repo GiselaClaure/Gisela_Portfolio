@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;1,300;1,400&display=swap');
-.App {
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500&display=swap');
+* {
+  font-family: 'Maven Pro', sans-serif;
   text-align: center;
-  font-family: 'Mulish', sans-serif;
-  padding-top: 30px;
 };
 
 .button{

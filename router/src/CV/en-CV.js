@@ -67,8 +67,8 @@ export const CV = {
     },
     habilities: [
       "Teamwork",
-      "Experience in working under with objectives",
-      "Proactivity",
+      "Experience in working with objectives",
+      "Self-management",
       "Interpersonal Skills",
     ],
     technologies:[

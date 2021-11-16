@@ -1,6 +1,6 @@
 import { useState } from "react";
 import '../App.css';
-import { About, Hero, Education, Experience, More } from "../components/es/index";
+import { About, Education, Experience, More } from "../components/es/index";
 import { CV } from "../CV/es-CV";
 
 const { hero, education, experience, habilities, languages, technologies} = CV;
@@ -9,7 +9,7 @@ function ES() {
   const [showEducation, setShowEducation] = useState(true);
   return (
       <div className="App">
-          <Hero hero={hero} />
+          {/* <Hero hero={hero} /> */}
           <About hero={hero} />
           <button
               className="custom-btn"

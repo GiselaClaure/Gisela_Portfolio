@@ -1,6 +1,6 @@
 export const CV = {
     hero: {
-      fullName: "Gisela Claure",
+      fullName: "Gisela Claure Mérida",
       city: "Madrid",
       email: "giselaclaure@gmail.com",
       phone: "+34 626603433",
@@ -67,6 +67,7 @@ export const CV = {
     },
     habilities: [
       "Trabajo en equipo",
+      "Auto gestión",
       "Experiencia en trabajo bao objetivos",
       "Proactividad",
     ],

@@ -1,19 +1,25 @@
 .hero {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 26px;
+  padding-bottom: 20px;
   }
   .hero-card {
     margin-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
     text-align: center;
+    align-items: center;
     border-radius: 12px;
   }
   .photo {
-    width: 160px;
+    width: 140px;
     margin: 10 px;
-    border-radius: 100px;
+    border-radius: 20px;
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
   }
   h2 {

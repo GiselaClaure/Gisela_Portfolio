@@ -9,7 +9,7 @@ const Education = ({ education }) => {
           return (
             <div key={JSON.stringify(item)}>
               <h3 className="name">📔 {item.name}</h3>
-              <p class="text">{item.where}</p>
+              <p class="text"><strong>{item.where}</strong></p>
               <p class="text">{item.date}</p>
             </div>
           );
